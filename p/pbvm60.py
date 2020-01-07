@@ -1,3 +1,6 @@
+# md5 : a76bb10d71747c3bb53b107864590c8d
+# sha1 : f6fafb0c698b0d267ae1eaeb738574e1ead2cea5
+# sha256 : acf9f42d2129a99465ad8e0c778c07f745754a238e9d7bcf85162849310c9774
 
 ord_names = {
     1: b'WEP',

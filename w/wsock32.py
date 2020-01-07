@@ -1,3 +1,6 @@
+# md5 : 7bc233f49c60b2fc6869b05318c02d64
+# sha1 : d090938c5e2c05879c0c577f828e4d1e84b14dbc
+# sha256 : d025c4b2e79dc0157ba636bbebd4dc63e0ac41d442798532e09a1573461e0979
 
 ord_names = {
     1: b'accept',

@@ -1,3 +1,6 @@
+# md5 : d77c78acbca269b01b2b94c4363e7d88
+# sha1 : bd5fde9fc3d77d2e16914a934d35a59ae3e27bb8
+# sha256 : 7cc598b22706e0f90a8fb5618de9966bf2d0288a2122181c55c22b555441f881
 
 ord_names = {
     1: b'OAppendMenuW',

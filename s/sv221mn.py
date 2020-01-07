@@ -1,3 +1,6 @@
+# md5 : e4d92ee9e51d571e98231351d2b9aa6d
+# sha1 : f28d4e3190863734ac8a6759692cf3b5c9e210a8
+# sha256 : a6939c20ced2c6ac4f4b0eb4294044094ab00c6303133c696ccdfb43d4bc3c16
 
 ord_names = {
     20: b'??0Link@@QAE@ABV0@@Z',

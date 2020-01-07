@@ -1,3 +1,6 @@
+# md5 : 870a048a575c2db232659b7862967fa4
+# sha1 : cc43b14d0a3ffd5dcdad6bd954d1771fea36e7f0
+# sha256 : f1f123a479c49034c3067a80c9593277b6ac35582aa419555ceffec73510d291
 
 ord_names = {
     4477: b'?GetUndoStringMaker@CommandAddUndo@ChartAnonymous@@UAE?BV?$TWeakPtr@VIUndoStringMaker@Art@@@Ofc@@XZ',

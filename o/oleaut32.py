@@ -1,3 +1,6 @@
+# md5 : e86f732844bc4cd9ddf158c4f1d0036f
+# sha1 : b11c8f8ae0b1cab179ac1e637972344b75ce8b46
+# sha256 : 9fb20f402dea80a2d683ad0ca8a67938c19a55a7c8faa4509e1c663ea5fb154e
 
 ord_names = {
     2: b'SysAllocString',

@@ -1,3 +1,6 @@
+# md5 : 7cf8d5549f3c4b0a7870d0e515a9c033
+# sha1 : 2be54bd63ab58118a845ed5fd57ad35ee54301b4
+# sha256 : b3094ce056324c5d330849d020e0c3a2e4a7359b17434be3ae13e0f8354ce14d
 
 ord_names = {
     1: b'OleUIAddVerbMenuA',

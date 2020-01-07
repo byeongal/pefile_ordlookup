@@ -1,3 +1,6 @@
+# md5 : c25a0675ac427e95f914f665c0c052be
+# sha1 : 68e16949bd563e7f73bddc5b6fd3c622609e85ec
+# sha256 : e76717203c9f1fd4ec7168fcd55c1be8a981746e64f5adb75fda2f462035cb12
 
 ord_names = {
     1: b'?$S5@?1??StaticMember@MSWindow@ms@core@@KAAAVStaticMembers@234@XZ@4IA',

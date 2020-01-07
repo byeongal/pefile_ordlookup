@@ -1,3 +1,6 @@
+# md5 : 96eec1e154a7c1d0688c876995ff2624
+# sha1 : 77b54f38cb48a435708a0eca102d1cfcc6daf852
+# sha256 : 2b0c6eea196efae472d2b5ce26b030d0ebe1951d1cf75c0d085d9c94b0c61e65
 
 ord_names = {
     2: b'SHChangeNotifyRegister',

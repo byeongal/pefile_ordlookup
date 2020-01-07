@@ -1,3 +1,6 @@
+# md5 : 8a5c88b0e78ab8e79e39b36d8f2775dd
+# sha1 : eb9cf7e74fe38b1cd9937d1744d113d19690f0bf
+# sha256 : 0e20aabe00926bd010ec878183b6e96bc33fd62ca604b35139d37af348cee766
 
 ord_names = {
     5: b'MsiAdvertiseProductA',
